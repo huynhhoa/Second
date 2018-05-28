@@ -1,0 +1,12 @@
+D:\New folder\Second\Second\obj\Debug\Interop.ACTIVEXLib.dll
+D:\New folder\Second\Second\obj\Debug\Interop.LCC11.dll
+D:\New folder\Second\Second\obj\Debug\Second.csproj.ResolveComReference.cache
+D:\New folder\Second\Second\obj\Debug\Second.CVExcel.resources
+D:\New folder\Second\Second\obj\Debug\Second.Properties.Resources.resources
+D:\New folder\Second\Second\obj\Debug\Second.csproj.GenerateResource.cache
+D:\New folder\Second\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+D:\New folder\Second\Second\bin\Debug\Second.exe.config
+D:\New folder\Second\Second\bin\Debug\Second.exe
+D:\New folder\Second\Second\bin\Debug\Second.pdb
+D:\New folder\Second\Second\obj\Debug\Second.exe
+D:\New folder\Second\Second\obj\Debug\Second.pdb
